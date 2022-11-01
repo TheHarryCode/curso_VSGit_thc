@@ -1,5 +1,5 @@
 name = "The Harry Mesa"
 print("Este es el canal de "+name)
 
-lastname = Mesa
+lastname = "Mesa"
 print("Su apellido es "+lastname)
