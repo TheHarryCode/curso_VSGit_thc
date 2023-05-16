@@ -9,3 +9,7 @@ print("Su pais es "+country)
 
 edad = 45
 print("Su edad es "+str(edad))
+
+print("su nombre completo es "+name+" "+lastname)
+
+# Ctrol + Shit + P
